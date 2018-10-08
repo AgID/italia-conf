@@ -1,0 +1,9 @@
+publisher:
+  name: Agenzia per l'Italia Digitale
+  description: "GitHub Italia è l'organizzazione GitHub di Developers Italia, la comunità dedicata allo sviluppo di software open-source a supporto dei servizi pubblici digitali Italiani."
+  logo: assets/images/logo-agid.png
+  website: https://www.agid.gov.it/
+  short_name: AGID
+  tags:
+    - agid
+    - "agenda digitale"
