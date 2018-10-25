@@ -2,7 +2,14 @@ projects:
   -
     name: Linee guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
     short_name: Linee guida riuso software
-    description: "Le linee guida su acquisizione e riuso di software per le pubbliche amministrazioni sono adottate in attuazione dagli articoli 68 e 69 del Codice dell’Amministrazione Digitale; il documento e la metodologia in esso descritta sono da intendersi come ausilio a un percorso decisionale che rimane sotto la piena responsabilità delle amministrazioni. Attualmente, queste linee guida, sono soggette a notifica alla Commissione Europea, in esecuzione della direttiva 2015/1535."
+    description: |
+      Le linee guida su acquisizione e riuso di software per le pubbliche
+      amministrazioni sono adottate in attuazione dagli articoli 68 e 69 del
+      Codice dell’Amministrazione Digitale; il documento e la metodologia in
+      esso descritta sono da intendersi come ausilio a un percorso decisionale
+      che rimane sotto la piena responsabilità delle amministrazioni.
+      Attualmente, queste linee guida, sono soggette a notifica alla Commissione
+      Europea, in esecuzione della direttiva 2015/1535.
     website: https://www.agid.gov.it/
     logo: assets/images/logo-agid.png
     documents:
