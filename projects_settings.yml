@@ -32,3 +32,11 @@ projects:
       - lg-competenze-digitali-specialistiche-armonizzazione-docs
       - lg-competenze-digitali-specialistiche-qualita-docs
       - lg-competenze-digitali-eleadership-docs
+  - name: Documenti in consultazione
+    short_name: Documenti in consultazione
+    description: |
+      Questo progetto raccoglie i documenti sottoposti a consultazione pubblica.
+    website: https://www.agid.gov.it/
+    logo: assets/images/logo-agid.png
+    documents:
+      - lg-pubblicowififree
