@@ -36,3 +36,6 @@ projects:
       - lg-spid-firma-docs
       - lg-spid-uso-professionale-docs
       - lg-conservazione-cessazione-docs
+      - lg-certificati-qualificati-docs
+      - lg-doc-informatico-allegato-2-formati-file-riversamento
+      - lg-spid-attribute-authority-docs
