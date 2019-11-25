@@ -1,4 +1,11 @@
 projects:
+  - name: Web Analytics Italia
+    short_name: WAI
+    description: Documenti tecnici e guide relative al progetto Web Analytics Italia
+    website: https://webanalitycs.italia.it
+    logo: assets/images/wai.png
+    documents:
+      - wai-user-guide-docs
   - name: Competenze digitali
     short_name: Competenze digitali
     description: |
