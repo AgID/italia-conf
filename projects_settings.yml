@@ -46,3 +46,12 @@ projects:
       - lg-certificati-qualificati-docs
       - lg-doc-informatico-allegato-2-formati-file-riversamento
       - lg-spid-attribute-authority-docs
+- name: Domicilio Digitale
+    short_name: Domicilio Digitale
+    description: |
+      Questo progetto raccoglie i documenti realizzati dall’Agenzia per l’Italia 
+      Digitale in merito al domicilio digitale.
+    website: https://www.agid.gov.it/
+    logo: assets/images/logo-agid.png
+    documents:
+      - lg-domiciliodigitalecittadino-docs
