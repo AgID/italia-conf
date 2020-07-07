@@ -46,6 +46,7 @@ projects:
       - lg-certificati-qualificati-docs
       - lg-doc-informatico-allegato-2-formati-file-riversamento
       - lg-spid-attribute-authority-docs
+      - lg-spid-statistiche-docs
   - name: Domicilio Digitale
     short_name: Domicilio Digitale
     description: |
