@@ -49,6 +49,7 @@ projects:
       - lg-spid-statistiche-docs
       - lg-sicurezza-interoperabilita-docs
       - lg-io-docs
+      - lg-design-servizi-web
   - name: Domicilio Digitale
     short_name: Domicilio Digitale
     description: |
