@@ -50,6 +50,7 @@ projects:
       - lg-io-docs
       - lg-spid-minori-docs
       - lg-spid-attribute-authority-docs
+      - lg-pdnd-docs
   - name: Domicilio Digitale
     short_name: Domicilio Digitale
     description: |
